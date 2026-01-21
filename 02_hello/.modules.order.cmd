@@ -1,0 +1,1 @@
+cmd_/home/pi/Documents/DeviceDrivers_Practice/02_hello/modules.order := {   echo /home/pi/Documents/DeviceDrivers_Practice/02_hello/hello.ko; :; } | awk '!x[$$0]++' - > /home/pi/Documents/DeviceDrivers_Practice/02_hello/modules.order

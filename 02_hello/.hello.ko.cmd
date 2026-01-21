@@ -1,0 +1,1 @@
+cmd_/home/pi/Documents/DeviceDrivers_Practice/02_hello/hello.ko := ld -r -EL --build-id=sha1  -T scripts/module.lds -o /home/pi/Documents/DeviceDrivers_Practice/02_hello/hello.ko /home/pi/Documents/DeviceDrivers_Practice/02_hello/hello.o /home/pi/Documents/DeviceDrivers_Practice/02_hello/hello.mod.o;  true

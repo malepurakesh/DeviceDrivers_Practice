@@ -1,0 +1,1 @@
+cmd_/home/pi/Documents/DeviceDrivers_Practice/02_hello/hello.mod := { echo  /home/pi/Documents/DeviceDrivers_Practice/02_hello/hello.o;  echo; } > /home/pi/Documents/DeviceDrivers_Practice/02_hello/hello.mod
